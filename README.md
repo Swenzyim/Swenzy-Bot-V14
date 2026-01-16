@@ -1,2 +1,8 @@
 # Swenzy-Bot-V14
-Swenzy Bot Onayli Botu 80 starda Paylaşılacak.
+⭐ 80 Starda Paylaşılacaktır.
+
+<div align="center">
+<h2>Discord</h2>
+ <a href="https://discord.com/users/1015845680067133480">
+ <img src="https://lanyard-profile-readme.vercel.app/api/1015845680067133480"></a>
+</div>
